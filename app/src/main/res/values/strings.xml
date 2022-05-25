@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">To_do_list</string>
+    <string name="name">Name</string>
+    <string name="add_item">Add Item</string>
+    <string name="entre_votre_tache">Entre votre tache</string>
+</resources>
