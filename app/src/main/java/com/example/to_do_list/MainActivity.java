@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
                 input.setText("");
             }else
             {
-                Toast.makeText(getApplicationContext(), "Please enter text....",Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplicationContext(), "Please enter",Toast.LENGTH_LONG).show();
             }
     }
 }
